@@ -1,4 +1,5 @@
 Project Description:
+
 The aim of this project is to develop a media player application using the Flutter framework that
 enhances the media playback experience for users. The Media Booster app will have an audio
 player, video player, and carousel slider functionalities along with a tab bar view. The project is
@@ -21,5 +22,8 @@ Project Technologies:
 
 
 
-https://github.com/omtrivedi110/media_player/assets/131134704/33e49cc5-6661-4513-a67e-fb6854f3332c
+
+
+https://github.com/omtrivedi110/my_media_player/assets/131134704/21db6afc-9117-4a2a-8d9d-fd8ea4fad637
+
 
